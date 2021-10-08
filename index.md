@@ -1,27 +1,20 @@
 ## Welcome to my web!
 
+嗨！我是赵研妍。
+
 这是我第一次尝试搭建我的个人网站，可能还有很多不足。
 
 你可以通过这个网站增加对我的了解！
 
-### Markdown
+### 个人简介
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+下面我将介绍我的个人信息
 
-```markdown
-Syntax highlighted code block
+```个人简介
 
-# Header 1
-## Header 2
-### Header 3
+**姓名：**赵研妍
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
